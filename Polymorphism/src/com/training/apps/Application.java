@@ -16,7 +16,7 @@ public class Application {
 		Scanner sc =new Scanner(System.in);
 		String ch="Y";
 		do{
-		System.out.println("Enter 1 for Maruti 2 for Toyoto 3 for Bike");
+		System.out.println("Enter 1 for Maruti 2 for Toyoto 3 for Bike 4 for honda");
 		int key=sc.nextInt();
 		
 		
